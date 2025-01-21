@@ -1,8 +1,8 @@
 ## Hello World, sou Johnes! ✌️🙈
 
-- 🔭 Profissional em busca de migração de área.
-- 🌱 Último semestre de análise e desenvolvimento de sistemas
-- 🧑🏽‍💻 Estudando Python, SQL, Jira e Javascript
+- 🔭 Analista de service desk.
+- 🌱 Formado em análise e desenvolvimento de sistemas
+- 🧑🏽‍💻 Estudando Python e se desenvolvendo na área de cloud. 
 - 📫 E-mail: johnes.henrique@gmail.com
 
 ## Status
