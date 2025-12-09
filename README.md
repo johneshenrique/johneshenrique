@@ -2,7 +2,7 @@
 
 - 🔭 Analista de service desk.
 - 🌱 Formado em análise e desenvolvimento de sistemas
-- 🧑🏽‍💻 Estudando Python e se desenvolvendo na área de cloud. 
+- 🧑🏽‍💻 Estudando desenvolvimento web. 
 - 📫 E-mail: johnes.henrique@gmail.com
 
 ## Status
